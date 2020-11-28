@@ -3,4 +3,5 @@ The two moons may be a problem for Wolfman
 But the Mummy will appreciate the lack of humidity
 Venus could also be home to us, although maybe a few hundred degrees too hot
 But we could colonise Venus using zeppelins in its dense atmosphere!
-We added a different line in the other copy
+We removed the conflict on this line
+
